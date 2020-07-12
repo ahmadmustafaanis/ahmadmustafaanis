@@ -10,5 +10,4 @@ I am Ahmad Mustafa Anis, A Machine Learning & Data Science enthusiastic. I love 
 - 💬 Ask me about **My Goals**
 - 📫 How to reach me: Follow me on Twitter at [@AhmadMustafaAn1](https://twitter.com/AhmadMustafaAn1)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fahmadmustafaanis%20)
