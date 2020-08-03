@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmadmustafaanis)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Ahmad Mustafa Anis, A Machine Learning & Data Science enthusiastic. I love to work with Python on data-driven projects.
