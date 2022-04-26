@@ -3,8 +3,8 @@
 I am Ahmad Mustafa Anis, A Machine Learning & Data Science enthusiastic. I love to work with Python on data-driven projects.
 
 - 🔭 I’m currently working on **Python** , **C++**, **Machine Learning**, **Tensorflow**, **PyTorch**, **Object Detection**, **Object Segmentation**, and other **Computer Vision** related tasks.
-- 🌱 I’m currently learning **Java**, **Data Structures and Algorithms**, **Feature engineering**
-- I love to write blogs and tutorials related to **Machine Learning**. Check them out at [Medium](https://medium.com/@ahmadanis5050) and [KdNuggets](https://www.kdnuggets.com/author/ahmad-anis)
+- 🌱 I’m currently learning **Computer Vision**, **Deep Learning and Machine Learning**, **RUST**
+- I love to write blogs and tutorials related to **Machine Learning**. Check them out at [Medium](https://medium.com/@ahmadanis5050), [KdNuggets](https://www.kdnuggets.com/author/ahmad-anis), and [CNVRG](http://cnvrg.io/author/ahmad-anis).
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 💬 Ask me about **My Goals**
 - Most Loved Deep Learning Framework: **Keras**
